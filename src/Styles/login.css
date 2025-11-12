@@ -1,0 +1,63 @@
+
+.custom_bold{
+  font-weight: bold;
+}
+
+.schoolImage {
+  background-image: 
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    url('../assets/HIS/images/HISK-Building.webp');
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  border-radius: 30px 0 0 30px;
+}
+
+
+
+.code {
+  color: white;
+ 
+}
+.classRemember{
+  color: #f8a815;
+}
+
+
+
+
+.otpSubtitle {
+  color: white;
+  margin-bottom: 20px;
+} */
+.toggle{
+  color: #55f815;
+}
+
+.ant-switch-inner{
+  background-color: #fff !important;
+  border: 1px solid rgb(158, 156, 156);
+}
+.ant-switch-handle::before{
+  background-color: #2e8f08 !important;
+}
+.ant-switch-handle::after{
+  background-color: #696969 !important;
+}
+
+.radiant-btn {
+ background: linear-gradient(90deg, #074799, #35A6FA);
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  width: 200px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+

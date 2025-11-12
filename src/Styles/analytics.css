@@ -1,0 +1,86 @@
+.analytics-card {
+  display: flex;
+  align-items: center;
+  
+  border-radius: 14px;
+  border: none ;
+  position: relative;
+  overflow: hidden;
+  height: ;
+  
+}
+
+.img-card{
+    width : 20%
+}
+
+
+
+.left-box {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 12px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.icon {
+  width: 35px;
+}
+
+.right-box {
+  text-align: left;
+}
+
+.title {
+  margin: 0;
+  font-size: 14px;
+  color: #555;
+  font-weight: 600;
+}
+
+.value {
+  margin: 0;
+  margin-top: 5px;
+  font-size: 20px;
+  font-weight: 700;
+  color: black;
+}
+
+
+.yellow-bg {
+  background: #fff5cc;
+}
+
+.green-bg {
+  background: #90EE90  ;
+}
+
+.orange-bg {
+  background: #f18837  ;
+}
+
+
+
+
+.red-bg {
+  background: #ffd4d4;
+}
+
+.purple-bg {
+  background: #e6d6ff;
+}
+.blue-bg {
+  background: #4779bf;
+}
+
+.colorIcon{
+  
+  bottom: "8px";
+  right: "8px";
+  width: "24px";
+  height: "24px";
+     
+}
